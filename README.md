@@ -1,12 +1,12 @@
-.
-!DOCTYPE html>
+<!DOCTYPE html>
 <html>
     <head>
-        <title>yes or no</title>
+        <title>yakali nga GAS</title>
     </head>
     <body>
-        <img src="dino.png.png" width="500">
-        <p><a href="yes or no 2.html">MAU</a></p> <P><a href="yes or no 1.html">TIDAK</a></P>
+        <img src="rimender.png" width="300">
+        <h1>YAKALI NGA SOLAT </h1>
+        <p><a href="finish.html">GAS</a></p> <P><a href="reminder1.html">OGAH</a></P>
 
     </body>
-</html>
+</html> 
