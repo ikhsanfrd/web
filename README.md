@@ -1,5 +1,4 @@
-# web
-# contoh web
+
 !DOCTYPE html>
 <html>
     <head>
